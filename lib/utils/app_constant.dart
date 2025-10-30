@@ -1,7 +1,7 @@
 class AppConstant {
   static const baseUrl = "https://api.mytravaly.com/public/v1/";
-  static const authToken = "71523fdd8d26f585315b4233e39d9263";
-  static const visitorToken = "8818-7a61-a211-dbdb-4a8f-6aeb-603d-771b";
+  static const authToken = "";
+  static const visitorToken = "";
 
   static const bookBtn = "Book Now";
   static const signInBtn = "Sign In";
